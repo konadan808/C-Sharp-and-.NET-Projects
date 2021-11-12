@@ -1,0 +1,6 @@
+C:\Users\konad\source\repos\AcmeAccountingAssignment\AcmeAccountingAssignment\bin\Debug\AcmeAccountingAssignment.exe.config
+C:\Users\konad\source\repos\AcmeAccountingAssignment\AcmeAccountingAssignment\bin\Debug\AcmeAccountingAssignment.exe
+C:\Users\konad\source\repos\AcmeAccountingAssignment\AcmeAccountingAssignment\bin\Debug\AcmeAccountingAssignment.pdb
+C:\Users\konad\source\repos\AcmeAccountingAssignment\AcmeAccountingAssignment\obj\Debug\AcmeAccountingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\AcmeAccountingAssignment\AcmeAccountingAssignment\obj\Debug\AcmeAccountingAssignment.exe
+C:\Users\konad\source\repos\AcmeAccountingAssignment\AcmeAccountingAssignment\obj\Debug\AcmeAccountingAssignment.pdb
