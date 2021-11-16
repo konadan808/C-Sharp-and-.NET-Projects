@@ -1,0 +1,14 @@
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.exe
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.deps.json
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.runtimeconfig.json
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.runtimeconfig.dev.json
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.dll
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\netcoreapp3.1\ConsoleApplicationAssignment.pdb
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.AssemblyInfoInputs.cache
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.AssemblyInfo.cs
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.dll
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.pdb
+C:\Users\konad\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\netcoreapp3.1\ConsoleApplicationAssignment.genruntimeconfig.cache
