@@ -5,3 +5,10 @@ C:\Users\konad\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\De
 C:\Users\konad\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
 C:\Users\konad\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
 C:\Users\konad\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
+C:\Users\konad\Documents\GitHub\C-Sharp-and-.NET-Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\konad\Documents\GitHub\C-Sharp-and-.NET-Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\konad\Documents\GitHub\C-Sharp-and-.NET-Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\konad\Documents\GitHub\C-Sharp-and-.NET-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\Documents\GitHub\C-Sharp-and-.NET-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\Documents\GitHub\C-Sharp-and-.NET-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\konad\Documents\GitHub\C-Sharp-and-.NET-Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb

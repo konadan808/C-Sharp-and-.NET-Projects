@@ -12,7 +12,7 @@ namespace BooleanLogicAssignment
         {
             // Program intro text
             Console.WriteLine("Car Insurance Application Questionnaire");
-            
+
             // Questionnaire that collects string values of the user's inputs them and converts them to needed data types, int and bool.
             Console.WriteLine("Please answer the following questions.");
             Console.WriteLine("What is your age?");
