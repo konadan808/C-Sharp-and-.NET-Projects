@@ -1,0 +1,14 @@
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.exe
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.deps.json
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.json
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.dev.json
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfo.cs
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\konad\source\repos\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.genruntimeconfig.cache
