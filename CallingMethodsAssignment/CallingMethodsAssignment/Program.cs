@@ -19,37 +19,17 @@ namespace CallingMethodsAssignment
            // This prints out what number the user entered
             Console.WriteLine("You have entered " + num1.userInput);
             // This calls the first method that adds 5 to the user input
-            num1 = Add5(num1);
+            num1 = UserNum.Add5(num1);
             Console.WriteLine(num1.userInput);
             // This calls the second method that adds the first result to 18
-            num1 = Add18(num1);
+            num1 = UserNum.Add18(num1);
             Console.WriteLine(num1.userInput);
             // This calls the third method that adds the second result to 42
-            num1 = Add42(num1);
+            num1 = UserNum.Add42(num1);
             Console.WriteLine(num1.userInput);
 
             Console.ReadLine();
         }
-        // First Method that adds 5 to the user input
-        public static UserNum Add5(UserNum num1)
-        {
-            int result = num1.userInput + 5;
-            num1.userInput = result;
-            return num1;
-        }
-        // Second method that takes the result of the first method and adds 18 to it
-        public static UserNum Add18(UserNum num1)
-        {
-            int result = num1.userInput + 18;
-            num1.userInput = result;
-            return num1;
-        }
-        // Third method that take the result of the second method and adds 42 to it
-        public static UserNum Add42(UserNum num1)
-        {
-            int result = num1.userInput + 42;
-            num1.userInput = result;
-            return num1;
-        }
+        
     }
 }
