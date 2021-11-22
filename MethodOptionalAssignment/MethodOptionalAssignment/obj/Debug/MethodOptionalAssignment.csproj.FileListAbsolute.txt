@@ -1,0 +1,7 @@
+C:\Users\konad\source\repos\MethodOptionalAssignment\MethodOptionalAssignment\bin\Debug\MethodOptionalAssignment.exe.config
+C:\Users\konad\source\repos\MethodOptionalAssignment\MethodOptionalAssignment\bin\Debug\MethodOptionalAssignment.exe
+C:\Users\konad\source\repos\MethodOptionalAssignment\MethodOptionalAssignment\bin\Debug\MethodOptionalAssignment.pdb
+C:\Users\konad\source\repos\MethodOptionalAssignment\MethodOptionalAssignment\obj\Debug\MethodOptionalAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\source\repos\MethodOptionalAssignment\MethodOptionalAssignment\obj\Debug\MethodOptionalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\MethodOptionalAssignment\MethodOptionalAssignment\obj\Debug\MethodOptionalAssignment.exe
+C:\Users\konad\source\repos\MethodOptionalAssignment\MethodOptionalAssignment\obj\Debug\MethodOptionalAssignment.pdb
