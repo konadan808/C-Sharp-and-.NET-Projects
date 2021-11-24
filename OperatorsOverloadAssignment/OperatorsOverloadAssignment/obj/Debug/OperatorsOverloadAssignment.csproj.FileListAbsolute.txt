@@ -1,0 +1,7 @@
+C:\Users\konad\source\repos\OperatorsOverloadAssignment\OperatorsOverloadAssignment\obj\Debug\OperatorsOverloadAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\source\repos\OperatorsOverloadAssignment\OperatorsOverloadAssignment\obj\Debug\OperatorsOverloadAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\OperatorsOverloadAssignment\OperatorsOverloadAssignment\bin\Debug\OperatorsOverloadAssignment.exe.config
+C:\Users\konad\source\repos\OperatorsOverloadAssignment\OperatorsOverloadAssignment\bin\Debug\OperatorsOverloadAssignment.exe
+C:\Users\konad\source\repos\OperatorsOverloadAssignment\OperatorsOverloadAssignment\bin\Debug\OperatorsOverloadAssignment.pdb
+C:\Users\konad\source\repos\OperatorsOverloadAssignment\OperatorsOverloadAssignment\obj\Debug\OperatorsOverloadAssignment.exe
+C:\Users\konad\source\repos\OperatorsOverloadAssignment\OperatorsOverloadAssignment\obj\Debug\OperatorsOverloadAssignment.pdb
