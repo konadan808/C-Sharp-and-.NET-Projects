@@ -1,0 +1,7 @@
+C:\Users\konad\source\repos\LambdaExpresssionAssignment\LambdaExpresssionAssignment\bin\Debug\LambdaExpresssionAssignment.exe.config
+C:\Users\konad\source\repos\LambdaExpresssionAssignment\LambdaExpresssionAssignment\bin\Debug\LambdaExpresssionAssignment.exe
+C:\Users\konad\source\repos\LambdaExpresssionAssignment\LambdaExpresssionAssignment\bin\Debug\LambdaExpresssionAssignment.pdb
+C:\Users\konad\source\repos\LambdaExpresssionAssignment\LambdaExpresssionAssignment\obj\Debug\LambdaExpresssionAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\source\repos\LambdaExpresssionAssignment\LambdaExpresssionAssignment\obj\Debug\LambdaExpresssionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\LambdaExpresssionAssignment\LambdaExpresssionAssignment\obj\Debug\LambdaExpresssionAssignment.exe
+C:\Users\konad\source\repos\LambdaExpresssionAssignment\LambdaExpresssionAssignment\obj\Debug\LambdaExpresssionAssignment.pdb
