@@ -1,0 +1,7 @@
+C:\Users\konad\source\repos\Date-TimeAssignment\Date-TimeAssignment\obj\Debug\Date-TimeAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\source\repos\Date-TimeAssignment\Date-TimeAssignment\obj\Debug\Date-TimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\Date-TimeAssignment\Date-TimeAssignment\bin\Debug\Date-TimeAssignment.exe.config
+C:\Users\konad\source\repos\Date-TimeAssignment\Date-TimeAssignment\bin\Debug\Date-TimeAssignment.exe
+C:\Users\konad\source\repos\Date-TimeAssignment\Date-TimeAssignment\bin\Debug\Date-TimeAssignment.pdb
+C:\Users\konad\source\repos\Date-TimeAssignment\Date-TimeAssignment\obj\Debug\Date-TimeAssignment.exe
+C:\Users\konad\source\repos\Date-TimeAssignment\Date-TimeAssignment\obj\Debug\Date-TimeAssignment.pdb
