@@ -1,0 +1,7 @@
+C:\Users\konad\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\konad\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\konad\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\konad\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\konad\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\konad\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\konad\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
